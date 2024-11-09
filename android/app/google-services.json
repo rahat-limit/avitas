@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437124379650",
+    "project_id": "sales-flow-pejitb",
+    "storage_bucket": "sales-flow-pejitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437124379650:android:f7f702edfde1f94ba7a31b",
+        "android_client_info": {
+          "package_name": "com.ftap.avitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437124379650-trpm6gqvnornuorog3r3aea58331r5q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIP2Ipx6ZvGQZpZy47VwuWfBCUkujwZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437124379650-trpm6gqvnornuorog3r3aea58331r5q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

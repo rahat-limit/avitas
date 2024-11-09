@@ -1,0 +1,1 @@
+ /Applications/FPlayground/avitas/.dart_tool/flutter_build/1a02dda93eafb54f45d39960db33a3cb/native_assets.yaml: 
